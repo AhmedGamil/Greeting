@@ -10,7 +10,7 @@
 
 ## Introduction
 
-  - Greeting microservice is used to return message to specific account type.
+  - Greeting microservice is used to return greeting message based on account type.
   - this microservice is built using springboot and is packaged in jar and docker image.
   - the tests is built using <a href="http://rest-assured.io/">rest-assured</a> library   
 
