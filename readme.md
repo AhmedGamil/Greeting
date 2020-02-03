@@ -3,7 +3,6 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Assumptions](#assumptions)
 - [run application](#run)
 - [test application](#test)
 
